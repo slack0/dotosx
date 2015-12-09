@@ -7,6 +7,7 @@ export LANG=en_US.UTF-8
 export BASH_OSX_DIR=~/.bash-osx
 
 source $BASH_OSX_DIR/aliases
+source $BASH_OSX_DIR/prompt
 source $BASH_OSX_DIR/variables
 
 # Add tab completion for many Bash commands

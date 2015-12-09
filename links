@@ -15,6 +15,7 @@
 # bash
 ~/.bashrc-osx, /bash/.bashrc
 ~/.bash-osx/aliases, /bash/aliases
+~/.bash-osx/prompt, /bash/prompt
 ~/.bash-osx/variables, /bash/variables
 ~/.bash-osx/scripts, /bash/scripts
 
