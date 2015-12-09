@@ -2,6 +2,7 @@ ansible
 bash
 bash-completion
 phinze/cask/brew-cask
+coreutils
 fortune
 fpp
 homebrew/fuse/fuse4x
