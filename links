@@ -13,10 +13,10 @@
 # ~/.test, /dir12/.test
 
 # bash
-~/.bashrc-osx, /bashrc/.bashrc
-~/.bashrc-osx/aliases, /bashrc/aliases
-~/.bashrc-osx/variables, /bashrc/variables
-~/.bashrc-osx/scripts, /bashrc/scripts
+~/.bashrc-osx, /bash/.bashrc
+~/.bash-osx/aliases, /bash/aliases
+~/.bash-osx/variables, /bash/variables
+~/.bash-osx/scripts, /bash/scripts
 
 # brew
 ~/.brew, /brew/.brew
