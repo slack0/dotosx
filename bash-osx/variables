@@ -1,0 +1,6 @@
+#!/bin/bash
+#
+#
+
+# git editor
+export EDITOR="subl -w"
