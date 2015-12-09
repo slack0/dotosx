@@ -4,3 +4,6 @@
 
 # git editor
 export EDITOR="subl -w"
+
+# jvm
+export JAVA_HOME=$(/usr/libexec/java_home -v 1.8)
