@@ -14,3 +14,7 @@ source $BASH_OSX_DIR/variables
 if which brew > /dev/null && [ -f "$(brew --prefix)/etc/bash_completion" ]; then
   . "$(brew --prefix)/etc/bash_completion";
 fi;
+
+# add nvm to command line
+export NVM_DIR=~/.nvm
+. $(brew --prefix nvm)/nvm.sh
