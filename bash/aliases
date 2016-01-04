@@ -3,12 +3,7 @@
 #
 
 alias ls='gls'
-
-# subl
 alias subl='/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'
-alias hosts='subl /private/etc/hosts'
-alias dotfiles='subl ~/.dotfiles'
-alias dotosx='subl ~/.dotosx'
 
 # copy/paste
 alias copy='pbcopy'

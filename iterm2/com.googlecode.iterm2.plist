@@ -385,7 +385,7 @@
 	<key>NSColorPanelMode</key>
 	<string>65535</string>
 	<key>NSFontPanelAttributes</key>
-	<string>1, 4</string>
+	<string>1, 0</string>
 	<key>NSNavLastRootDirectory</key>
 	<string>~/.dotosx/iterm2</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
@@ -434,9 +434,9 @@
 	<key>NSWindow Frame NSColorPanel</key>
 	<string>1311 353 231 329 0 0 1920 1177 </string>
 	<key>NSWindow Frame NSFontPanel</key>
-	<string>1117 190 705 326 0 0 1920 1177 </string>
+	<string>975 190 705 326 0 0 1920 1177 </string>
 	<key>NSWindow Frame Preferences</key>
-	<string>881 250 924 485 0 0 1920 1177 </string>
+	<string>98 195 924 485 0 0 1920 1177 </string>
 	<key>NSWindow Frame SUStatusFrame</key>
 	<string>648 675 384 129 0 0 1680 1028 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
@@ -2479,11 +2479,11 @@
 			<key>Name</key>
 			<string>Solarized Dark</string>
 			<key>Non Ascii Font</key>
-			<string>Monaco 12</string>
+			<string>MenloForPowerline-Regular 11</string>
 			<key>Non-ASCII Anti Aliased</key>
 			<true/>
 			<key>Normal Font</key>
-			<string>Consolas 12</string>
+			<string>MenloForPowerline-Regular 11</string>
 			<key>Option Key Sends</key>
 			<integer>0</integer>
 			<key>Prompt Before Closing 2</key>
@@ -2633,7 +2633,7 @@
 			<key>Tags</key>
 			<array/>
 			<key>Terminal Type</key>
-			<string>xterm</string>
+			<string>xterm-color</string>
 			<key>Transparency</key>
 			<real>0.021114552393555641</real>
 			<key>Triggers</key>
@@ -2661,7 +2661,7 @@
 	<key>NoSyncTimeOfLastPromo</key>
 	<real>453644000.34143603</real>
 	<key>NoSyncTimeOfLastPromoDownload</key>
-	<real>472834706.77955699</real>
+	<real>473446556.42921901</real>
 	<key>OnlyWhenMoreTabs</key>
 	<true/>
 	<key>OpenArrangementAtStartup</key>
@@ -2730,7 +2730,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2015-12-27T14:41:33Z</date>
+	<date>2016-01-04T15:10:05Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>Show Toolbelt</key>
@@ -2742,7 +2742,7 @@
 	<key>SmartPlacement</key>
 	<true/>
 	<key>SplitPaneDimmingAmount</key>
-	<real>0.21415765583515167</real>
+	<real>0.15989583730697632</real>
 	<key>SwitchTabModifier</key>
 	<integer>4</integer>
 	<key>SwitchWindowModifier</key>
