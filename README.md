@@ -54,3 +54,42 @@ The `.brew` file maintains a list of all installed homebrew formulae. To update 
 ```bash
 $ brew leaves > .brew
 ```
+
+## Apps
+
+- 1Password
+- Alfred
+- Backblaze
+- Bartender
+- Cinch/Sizeup
+- Chrome
+- Disk Map
+- Dropbox
+- Fantastical
+- Hues
+- IntelliJ
+- iTerm
+- Mail Satellite
+- Marked
+- Office
+- OmniFocus
+- Pixelmator
+- Reeder
+- Rested
+- Skype
+- Soulver
+- Sublime Text
+- Tower
+- Transmit
+- Tweetbot
+- VLC
+
+Optional:
+
+- Atom
+- Calca
+- Charles
+- Kaleidoscope
+- Oyster
+- VirtualBox
+- Wireshark
